@@ -4,8 +4,4 @@
    <target name="info">
       <echo>Karthik kar</echo> 
    </target>
-
-   <target name="info1">
-   		<echo>dcdsjnk>
-   	</target>
 </project>
