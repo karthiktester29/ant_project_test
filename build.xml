@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+   <project name="Hello World Project by karthik" default="info">
+   
+   <target name="info">
+      <echo>Hello World - Hello world prject from  Karthik</echo> 
+   </target>
+
+   <target name="info1">
+   		<echo>vdxvfxb</echo>
+   	</target>
+</project>
