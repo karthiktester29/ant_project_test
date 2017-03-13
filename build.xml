@@ -2,10 +2,10 @@
    <project name="Hello World Project by karthik" default="info">
    
    <target name="info">
-      <echo>Hello World - Hello world prject from  Karthik</echo> 
+      <echo>Karthik</echo> 
    </target>
 
    <target name="info1">
-   		<echo>vdxvfxb</echo>
+   		<echo>dcdsjnk>
    	</target>
 </project>
