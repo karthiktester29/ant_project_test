@@ -2,6 +2,6 @@
    <project name="Hello World Project by karthik" default="info">
    
    <target name="info">
-      <echo>ikar Karth</echo> 
+      <echo>ikardd Karth</echo> 
    </target>
 </project>
